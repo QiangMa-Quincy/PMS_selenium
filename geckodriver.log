@@ -1,0 +1,31 @@
+1609757329783	geckodriver	INFO	Listening on 127.0.0.1:51848
+1609757330800	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4y/fb6774016mv19n7d2r02jm4r0000gn/T/rust_mozprofilen6mMxa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609757333146	Marionette	INFO	Listening on port 51859
+1609757333222	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1609757580349	Marionette	INFO	Stopped listening on port 51859
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609758838338	geckodriver	INFO	Listening on 127.0.0.1:52230
+1609758838347	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4y/fb6774016mv19n7d2r02jm4r0000gn/T/rust_mozprofilegr9VIr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609758840580	Marionette	INFO	Listening on port 52239
+1609758840629	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1609758937698	Marionette	INFO	Stopped listening on port 52239
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609759178797	geckodriver	INFO	Listening on 127.0.0.1:52446
+1609759178809	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4y/fb6774016mv19n7d2r02jm4r0000gn/T/rust_mozprofileECOTlv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609759181004	Marionette	INFO	Listening on port 52455
+1609759181094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.170:12675/js/app.228c5a9.js, line 139: unreachable code after return statement
+JavaScript warning: http://192.168.0.170:12675/js/app.228c5a9.js, line 43: unreachable code after return statement
+1609759724880	Marionette	INFO	Stopped listening on port 52455
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
